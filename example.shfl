@@ -1,0 +1,12 @@
+from turtle insert(plugin), Turtle, Screen
+i = 1
+wn = Screen();
+wn.bgcolor('yellow');
+turtle = Turtle();
+turtle.pendown();
+rand = 0
+while i (is) 1 {
+ rand (add) 3
+ turtle.setheading(rand);
+ turtle.forward(5);
+}
